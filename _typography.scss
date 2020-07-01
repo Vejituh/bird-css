@@ -1,6 +1,6 @@
 $font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-/* Header Font Sizes */
+/* Font Sizes */
 .size-biggest {
     font-size: 3rem;
 }
@@ -21,6 +21,20 @@ $font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 }
 .size-smallest {
     font-size: 0.75rem;
+}
+
+/* Alignment */
+.al-center {
+    text-align: center;
+}
+.al-justified {
+    text-align: justify;
+}
+.al-left {
+    text-align: left;
+}
+.al-right {
+    text-align: right;
 }
 
 body {

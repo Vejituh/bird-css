@@ -47,7 +47,7 @@ table {
   border-spacing: 0;
 }
 
-/* Header Font Sizes */
+/* Font Sizes */
 .size-biggest {
   font-size: 3rem;
 }
@@ -74,6 +74,23 @@ table {
 
 .size-smallest {
   font-size: 0.75rem;
+}
+
+/* Alignment */
+.al-center {
+  text-align: center;
+}
+
+.al-justified {
+  text-align: justify;
+}
+
+.al-left {
+  text-align: left;
+}
+
+.al-right {
+  text-align: right;
 }
 
 body {
